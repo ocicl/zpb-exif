@@ -1,0 +1,9 @@
+* zpb-exif
+
+Extract EXIF information from image files
+
+|---------+------------------------------------------------------------------------------|
+| source  | file:https://github.com/xach/zpb-exif/archive/refs/tags/release-1.2.5.tar.gz |
+| version | 1.2.5                                                                        |
+| systems | zpb-exif                                                                     |
+|---------+------------------------------------------------------------------------------|
